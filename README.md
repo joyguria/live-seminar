@@ -1,2 +1,1 @@
-# jairam-inventory
-# jairam-inventory
+* live-seeminar
